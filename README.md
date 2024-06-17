@@ -1,6 +1,6 @@
-# RAG Tutorial
+# RAG IMPLEMENTATION OF NuGT
 
-An overview of the RAG architecture for improving and adapting LLM to specific use cases
+An overview of the RAG architecture for improving and adapting LLM to the 3GPP standard documentation
 
 ## To run Locally
 
